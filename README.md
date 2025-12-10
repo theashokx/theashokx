@@ -8,7 +8,6 @@
 - 💬 Ask me about **MERN Stack, JavaScript, DSA**
 - 📫 Reach me at **theashokx@gmail.com**
 - ⚡ Fun fact: **My talent: converting pressure into progress.**
-- 🎯 Goal: **Crack top MNC placements with strong DSA & Projects**
 
 ---
 
