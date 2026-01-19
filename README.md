@@ -14,7 +14,7 @@
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  <a href="mailto:theashokx@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/349375/gmail.svg" height="30" width="40"/></a>
+  
 </p>
 
 ---
